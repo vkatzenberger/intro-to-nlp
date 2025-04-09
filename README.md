@@ -19,7 +19,7 @@ This is basically my learning journey.
 - `2.8_N-grams.ipynb`  
 - `2.9_Practical_Tripadvisor_Reviews.ipynb`  
 
-**Section 3 – NLP Techniques**
+**Section 3,4 – NLP Techniques**
 
 - `3.2_POS_tagging.ipynb`  
 - `3.3_NER.ipynb`  
