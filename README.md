@@ -6,6 +6,49 @@ Instead of forking the course repo, I uploaded my own version to track what I le
 
 This is basically my learning journey.
 
+## Files
+
+**Section 2 – Text Preprocessing**
+
+- `2.2_Lowercase.ipynb`  
+- `2.3_Stopwords.ipynb`  
+- `2.4_Regular_Expressions.ipynb`  
+- `2.5_Tokenizing_Text.ipynb`  
+- `2.6_Stemming.ipynb`  
+- `2.7_Lemmatization.ipynb`  
+- `2.8_N-grams.ipynb`  
+- `2.9_Practical_Tripadvisor_Reviews.ipynb`  
+
+**Section 3 – NLP Techniques**
+
+- `3.2_POS_tagging.ipynb`  
+- `3.3_NER.ipynb`  
+- `3.4_Practical.ipynb`  
+- `4_Sentiment_Analysis`  
+- `4.2_Rule_Based_Sentiment.ipynb`  
+- `4.3_Pre-trained_Transormer_Models.ipynb`  
+- `4.4_Practical_Book_Reviews.ipynb`  
+
+**Section 5 – Vectorization**
+
+- `5.2_Bag_of_Words.ipynb`  
+- `5.3_TF-IDF_in_python.ipynb`  
+
+**Section 6 – Topic Modeling**
+
+- `6.4_LDA.ipynb`  
+- `6.6_LSA.ipynb`  
+
+**Section 7 – Classification**
+
+- `7.2_Custom_Classifier.ipynb`  
+
+**Section 8 – Final Project**
+
+- `8_Practical_Fake_News.ipynb`
+
+
+
 ## Learned about
 
 - Practice on datasets (`.csv`, `.txt` files)
